@@ -1,2 +1,3 @@
-# salon
-Web application to allow hairstylists to create a profile and add thier avaiable hours.  This will allow thier customers the ability to schdule an appointment online.
+Salon Assistant
+================
+This web application will allow hairstylists to create a profile and add their available hours.  This will allow their customers the ability to schedule an appointment online using many devices.
